@@ -1,12 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 .navbar-brand {
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 700;
 }
 
 #navigator {
-    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    padding: 5px 5px 5px 80px;
 }
 
 .ad {
@@ -22,6 +25,8 @@
     font-size: 16px;
     cursor: pointer;
     text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
   }
   
 
@@ -37,5 +42,60 @@
 
     .more-cool-ad {
         font-weight: 700;
+        
+    }
+
+    #carouselExampleIndicators {
+        padding:30px 30px 30px 30px;
+
+    }
+
+    .category-pet{
+        font-size: 2em;
+        font-weight: 700px;
+        padding: 20px 20px 20px 20px;
     }
     
+    .row-display {
+        display: flex;
+        justify-content: center;
+    }
+
+    .column-display {
+        padding: 20px;
+    }
+
+    .circle-picture {
+        border-radius: 50%;
+    }
+
+    .category-popular{
+        font-size: 2em;
+        font-weight: 700px;
+        padding: 20px 20px 20px 20px;
+    }
+
+    .form-control{
+        width: 500px;
+    }
+
+
+    .search-icon{
+        padding: 10px;
+        background: dodgerblue;
+        color: white;
+        min-width: 50px;
+        text-align: center;
+        border-radius: 5%;
+    }
+
+    .input-container {
+        display: flex;
+        width: 100%;
+        margin-bottom: 15px;
+      }
+
+      .input-container .fa-search{
+        display: table-cell;
+      }
+      
