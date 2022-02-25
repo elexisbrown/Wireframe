@@ -12,6 +12,8 @@
     padding: 5px 5px 5px 80px;
 }
 
+
+
 .ad {
     display: block;
     width: 100%;
@@ -79,7 +81,13 @@
         width: 500px;
     }
 
-
+    .work-please {
+        margin: 20px;
+    }
+    .words {
+        margin-left: 20px;
+    }
+    
     .search-icon{
         padding: 10px;
         background: dodgerblue;
@@ -126,6 +134,52 @@
  display: block;
 }
 
+.small-dog {
+    max-height: 400px;
+    max-width: 400px;
+    min-width: 400px;
+    min-height: 400px;
+    padding: 10px;
+    margin-left: 45px;
+    margin-top: 45px;
+    float: left;
+    vertical-align: top;
+}
+.smaller-dog {
+    max-height: 400px;
+    max-width: 400px;
+    min-width: 400px;
+    min-height: 400px;
+    padding: 10px;
+    margin-left: 45px;
+    margin-top: 45px;
+    float: left;
+    vertical-align: top;
+}
+
+.image {
+    flex-basis: 40%
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-again {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: wrap-reverse;
+
+}
+
+.a-paragraph{
+    font-size: 20px;
+    padding-left: 20px;
+}
 /*
     code by Iatek LLC 2018 - CC 2.0 License - Attribution required
     code customized by Azmind.com
@@ -257,6 +311,12 @@
         visibility: visible;
     }
 }
+
+  .contact-padding{ 
+
+    padding: 20px 20px 20px 20px;
+     
+  }
 
 div {
     display: block;
