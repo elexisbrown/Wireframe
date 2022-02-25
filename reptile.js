@@ -3,21 +3,21 @@ var reptileShop = [
       title: 'Zoo Med Forest Floor Natural Cypress Mulch Reptile Bedding, 24-qt bag',
       image: 'https://img.chewy.com/is/catalog/96208._SS190_V1455841009_.jpg',
       price: '33.99',
-      description: 'Kaytee Basic Blend Wild Bird Food, 20-Ib bag'
+      description: 'Zoo Med Forest Floor Natural Cypress Mulch Reptile Bedding, 24-qt bag'
     },
 
     { 
         title: 'Zoo Med Repti Basking Reptile Spot Lamp, 100-watt, 2 count',
         image: 'https://img.chewy.com/is/catalog/99053._SS190_V1458161167_.jpg',
         price: '21.84',
-        description: 'Yaheetech 52-in Rolling Bird Cage, Hammered Black, Large'
+        description: 'Zoo Med Repti Basking Reptile Spot Lamp, 100-watt, 2 count'
     },
 
     { 
         title: 'Zoo Med Repti Calcium with D3 Reptile Supplement, 3-oz jar',
         image: 'https://img.chewy.com/is/catalog/96831._SS190_V1456923089_.jpg',
         price: '7.99',
-        description: 'Harvest Seed & Supply SongBird Wild Bird Food, 10-lb bag',
+        description: 'Zoo Med Repti Calcium with D3 Reptile Supplement, 3-oz jar',
     }
     
     

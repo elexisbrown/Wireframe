@@ -3,21 +3,21 @@ var dogShop = [
       title: 'Blue Buffalo Life Protection Formula Adult Chicken & Brown Rice Recipe Dry Dog Food, 30-lb bag',
       image: 'https://img.chewy.com/is/image/catalog/46861_MAIN._AC_SS348_V1636150597_.jpg',
       price: '55.98',
-      description: 'Kaytee Basic Blend Wild Bird Food, 20-Ib bag'
+      description: 'Blue Buffalo Life Protection Formula Adult Chicken & Brown Rice Recipe Dry Dog Food, 30-lb bag'
     },
 
     { 
         title: 'KONG Classic Dog Toy, Large',
         image: 'https://img.chewy.com/is/image/catalog/53352_MAIN._AC_SS348_V1534449201_.jpg',
         price: '13.99',
-        description: 'Yaheetech 52-in Rolling Bird Cage, Hammered Black, Large'
+        description: 'KONG Classic Dog Toy, Large'
     },
 
     { 
         title: 'Frisco Dog Training & Potty Pads, 22 x 23-in, 20 count, Unscented',
         image: 'https://img.chewy.com/is/image/catalog/227482_MAIN._AC_SY348_V1604672822_.jpg',
         price: '7.99',
-        description: 'Yaheetech 52-in Rolling Bird Cage, Hammered Black, Large',
+        description: 'Frisco Dog Training & Potty Pads, 22 x 23-in, 20 count, Unscented',
     }
     
     

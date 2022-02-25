@@ -3,21 +3,21 @@ var catShop = [
       title: 'Frisco 33.5-in Sisal Cat Scratching Post, Gray',
       image: 'https://img.chewy.com/is/image/catalog/163749_MAIN._AC_SS348_V1584451079_.jpg',
       price: '34.99',
-      description: 'Kaytee Basic Blend Wild Bird Food, 20-Ib bag'
+      description: 'Frisco 33.5-in Sisal Cat Scratching Post, Gra'
     },
 
     { 
         title: 'Friskies Pate Country Style Dinner Canned Cat Food, 5.5-oz, case of 24',
         image: 'https://img.chewy.com/is/image/catalog/76181_MAIN._AC_SS348_V1638493372_.jpg',
         price: '16.80',
-        description: 'Yaheetech 52-in Rolling Bird Cage, Hammered Black, Large'
+        description: 'Friskies Pate Country Style Dinner Canned Cat Food, 5.5-oz, case of 24'
     },
 
     { 
         title: 'Tidy Cats Glade Tough Scented Clumping Clay Cat Litter, 20-lb jug',
         image: 'https://img.chewy.com/is/image/catalog/66923_MAIN._AC_SS348_V1617073918_.jpg',
         price: '25.99',
-        description: 'Harvest Seed & Supply SongBird Wild Bird Food, 10-lb bag',
+        description: 'Tidy Cats Glade Tough Scented Clumping Clay Cat Litter, 20-lb jug',
     }
     
     

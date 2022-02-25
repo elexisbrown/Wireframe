@@ -3,21 +3,21 @@ var birdShop = [
       title: 'Carefresh Small Animal Bedding, Natural, 60-L',
       image: 'https://img.chewy.com/is/image/catalog/94694_MAIN._AC_SS348_V1542742652_.jpg',
       price: '17.99',
-      description: 'Kaytee Basic Blend Wild Bird Food, 20-Ib bag'
+      description: 'Carefresh Small Animal Bedding, Natural, 60-L'
     },
 
     { 
         title: 'Ware Critter Pops Small Animal Fun Chew Treats, Large',
         image: 'https://img.chewy.com/is/image/catalog/96131_MAIN._AC_SS348_V1565797655_.jpg',
         price: '2.99',
-        description: 'Yaheetech 52-in Rolling Bird Cage, Hammered Black, Large'
+        description: 'Ware Critter Pops Small Animal Fun Chew Treats, Large'
     },
 
     { 
         title: 'Kaytee Small Animal Pro-Nail Trimmer, 6.25-in',
         image: 'https://img.chewy.com/is/image/catalog/101515_MAIN._AC_SS348_V1513979998_.jpg',
         price: '4.88',
-        description: 'Harvest Seed & Supply SongBird Wild Bird Food, 10-lb bag',
+        description: 'Kaytee Small Animal Pro-Nail Trimmer, 6.25-in',
     }
     
     
